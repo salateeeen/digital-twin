@@ -6,13 +6,13 @@ Welcome to our team's repository! This is where we collaborate, share our work, 
 
 ### 👑 Leadership & Backend
 - **Sultan Omar** — President & Backend Developer
-- **Ghaith Oweisat** — Right-Hand Man & Frontend Developer
+- **Ghaith Al-Awissat** — Right-Hand Man & Frontend Developer
 
 ### 🤖 Artificial Intelligence — Class A
-- **Osama Farhoud** — AI Developer
+- **Osama Farhood** — AI Developer
 
 ### 🌐 Networking — Class B
-- **Aboud Fatiha** — Network Specialist
+- **Abdelrahman Ehab** — Network Specialist
 - **Nour Al-Sartawi** — Network Specialist
 
 ---
