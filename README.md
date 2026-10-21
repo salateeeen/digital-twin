@@ -13,7 +13,7 @@ Welcome to our team's repository! This is where we collaborate, share our work, 
 
 ### 🌐 Networking — Class B
 - **Abdelrahman Ehab** — Network Specialist
-- **Nour Al-Sartawi** — Network Specialist
+- **Noor Aldeen Sartawi** — Network Specialist
 
 ---
 
