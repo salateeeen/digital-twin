@@ -1,0 +1,80 @@
+/*DashTitles*/
+.dashboard-top-title {
+ color: #38bff8e1;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+.dashboard-title {
+  color: #f8fafc;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 8px 0;
+}
+.dashboard-description {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-top: 0;
+}
+/*Header*/
+header {
+margin-bottom: 30px;
+}
+
+
+/* تصميم الكارد */
+.metrics-section-title {
+  color: #f8fafc;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 18px;
+}
+.metrics-container {
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(150px, 1fr));
+  gap:16px;
+}
+.metric-card {
+  padding: 20px;
+  background-color:#1e293b;
+  border-radius: 20px;
+  border:1px solid #334155;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.573);
+  transition: transform 0.3s ease;
+  min-height: 100px;
+}
+.metric-card h3 {
+  color:#94a3b8;
+font-size:15px;
+margin-bottom: 10px;
+}
+.metric-card p {
+  color:#f8fafc;
+  font-size: 26px;
+  font-weight: bold;
+}
+.metric-card span {
+  color:#94a3b8;
+  font-size: 16px;
+  font-weight:100;
+  margin-left: 5px;
+}
+.metric-card:hover {
+  transform:translateY(-5px);
+}
+
+/*Status&Dot-status*/
+.network-status {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  background-color: #1e293b;
+  border:1px solid #334155;
+  border-radius: 12px;
+}
+.status-dot {
+color:#22c55e;
+font-size: 22px;
+}
