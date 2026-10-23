@@ -1,6 +1,6 @@
 schemaVersion,runId,entityId,entityType,observedAt,status,utilizationPct,latencyMs,packetLossPct,throughputMbps,source,sequence
-1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:00Z,healthy,62.0,20.0,0.0,6.2,fixture,0
-1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:05Z,degraded,82.0,55.0,2.0,8.2,fixture,1
-1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:10Z,degraded,84.0,57.0,2.5,8.4,fixture,2
-1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:15Z,degraded,83.0,56.0,2.0,8.3,fixture,3
-1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:20Z,healthy,60.0,25.0,0.0,6.0,fixture,4
+1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:00Z,healthy,62.0,20.0,0.0,5.0,mininet,1
+1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:05Z,degraded,82.0,55.0,2.0,8.2,mininet,2
+1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:10Z,degraded,84.0,57.0,2.5,8.4,mininet,3
+1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:15Z,degraded,83.0,56.0,2.0,8.3,mininet,4
+1.0,demo-normal-to-congested,s1-s2,link,2026-01-01T00:00:20Z,healthy,60.0,25.0,0.0,6.0,mininet,5

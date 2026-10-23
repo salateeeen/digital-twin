@@ -1,5 +1,5 @@
 import unittest
-from src.rules import RuleConfig, decide
+from src.decision_engine import RuleConfig, decide
 
 BASE = {
     "entityId": "s1-s2",
