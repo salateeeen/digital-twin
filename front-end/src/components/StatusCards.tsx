@@ -1,5 +1,5 @@
 type StatusCardProps = {label:string,
-                        value:number|null,
+                        value:number|string|null,
                         unit:string
                         };
 
@@ -7,8 +7,8 @@ function StatusCard({label,value,unit}:StatusCardProps){
     return(
         <div className="metric-card">
             <h3>{label}</h3>
-            <p>{value !==null ? value : "N/A"}
-               {value !==null && <span>{unit}</span>}</p>
+            <p>{value !==null ? value : "No reading"}
+              {value !== null && unit !== "" && <span>{unit}</span>}</p>
         </div>
     )
 
